@@ -33,7 +33,7 @@
     </dependencies>
 
     <build>
-        <finalName>timecal</finalName>
+        <finalName>tempConverter</finalName>
         <plugins>
 
             <!-- Compiler -->
@@ -87,7 +87,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>TimeCal</mainClass>
+                            <mainClass>TemperatureConverter</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
