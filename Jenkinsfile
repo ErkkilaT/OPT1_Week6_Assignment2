@@ -25,7 +25,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/ErkkilaT/OTP1_Week6_Assignment.git' //CHECK THE GITHUB REPO
+                git branch: 'master', url: 'https://github.com/ErkkilaT/OPT1_Week6_Assignment2.git' //CHECK THE GITHUB REPO
             }
         }
 
